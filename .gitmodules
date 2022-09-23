@@ -1,3 +1,6 @@
 [submodule "graphics/raytracer"]
 	path = graphics/raytracer
 	url = https://github.com/dmoore04/raytracer
+[submodule "games/flappy-bird"]
+	path = games/flappy-bird
+	url = https://github.com/dmoore04/flappy-bird
