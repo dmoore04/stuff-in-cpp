@@ -1,5 +1,5 @@
 # Stuff in C++
-This repository is a compliation of some projects I'm using to get more comfortable writing C++. Mostly, I'm recreating things I find cool with the help of some books, articles and videos. I'll try to link these where appropriate.
+This repository is a compilation of some projects I'm using to get more comfortable writing C++. Mostly, I'm recreating things I find cool with the help of some books, articles and videos. I'll try to link these where appropriate.
 ## Contents
 * [Computer Graphics](#computer-graphics)
 * [Games](#games)
