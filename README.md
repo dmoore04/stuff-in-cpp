@@ -5,7 +5,7 @@ This repository is a compilation of some projects I'm using to get more comforta
 * [Games](#games)
 
 #### `Computer Graphics`
-* [**Basic Raytracer**](https://github.com/dmoore04/raytracer) with the help of [_Ray Tracing in One Weekend_](https://github.com/dmoore04/raytracer)
+* [**Basic Raytracer**](https://github.com/dmoore04/raytracer) with the help of [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
 #### `Games`
 * [**Flappy Bird**](https://github.com/dmoore04/flappy-bird) thanks to [_Terminal Root_](https://terminalroot.com/how-to-make-flappy-bird-with-cpp/)
